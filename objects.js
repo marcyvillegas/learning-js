@@ -467,7 +467,7 @@ console.log(surgeonJackson.takeVacationDays(10));
 /*
 -----------------------REMINDER---------------------------
 
-We should use factory functions rather than Classes.
+We should use factory functions rather than Classes. This is because
 
 ---------------------------------------------------------
 */
